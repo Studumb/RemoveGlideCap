@@ -1,6 +1,6 @@
 <mod displayName="Remove Glide Cap" 
      unique="Remove Glide Cap" 
-     description="Eliminate the cap of the Glide ability." 
+     description="Eliminate the cap of the Glide ability. Therefore enable infinite flight." 
      installerSystemVersion="1.0.1.2" 
      hasCustomInstaller="false" 
      dllsBuild="2.5.337">
