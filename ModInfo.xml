@@ -1,0 +1,8 @@
+<mod displayName="Remove Glide Cap" 
+     unique="Remove Glide Cap" 
+     description="Eliminate the cap of the Glide ability." 
+     installerSystemVersion="1.0.1.2" 
+     hasCustomInstaller="false" 
+     dllsBuild="2.5.337">
+<prerequisite>RemoveGlideCap.dll</prerequisite>
+</mod>
