@@ -1,6 +1,6 @@
 # Remove Glide Cap
 ### About
-- Pretty self-explanatory, this mod removes the limit of flaps for each level of the Glide ability, thus enabling infinite flight.
+- Pretty self-explanatory, this mod removes the limit of flaps for each level of the **Glide** ability, thus enabling infinite flight.
 - If there any issues please let me know in the [issues tab](https://github.com/Studumb/RemoveGlideCap/issues)
 - **Required [Spore ModAPI](https://davoonline.com/sporemodder/rob55rod/ModAPI/Public/)**
 ### Credit
